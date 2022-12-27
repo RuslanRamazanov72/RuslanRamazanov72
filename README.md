@@ -1,8 +1,8 @@
 ### Hi, I'm Ruslan👋
 
-- 🔭 I’m currently working on C# Automation Framework
-- 🌱 I’m currently learning C# & SpecFlow
-- 🤔 I’m looking for help with C# & SpecFlow 😀
+- 🔭 I’m currently working on C# and Python Automation Frameworks
+- 🌱 I’m currently learning C# and Python
+- 🤔 I’m looking for help with C# 😀
 - 📫 How to reach me: [LinkedIn - @Ruslan Ramazanov](https://www.linkedin.com/in/ruslan-ramazanov-89a93679/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I have a two beautiful kids
